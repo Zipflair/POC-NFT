@@ -1,5 +1,5 @@
 # Zipflair Proof of Concept
-This Zipflair proof of concept is just the start of what we will be trying to achieve. The Zipflair NFT Marketplace is an easy way to view, mint, manage or trade any Non Fungible Token implemented on the XRP Ledger. Until now our research has only successfully test on other blockchains, as explained in our proposal Ripple's competitors gas fees or network issue have lead us to believe XRPL would be the ideal solution for a low-cost high transaction ledger for trading NFTs as we intend to at Zipflair.
+The Zipflair NFT Marketplace is an easy way to view, mint, manage or trade any Non Fungible Token implemented on the XRP Ledger. Until now our research has only successfully test on other blockchains, as explained in our proposal Ripple's competitors gas fees or network issue have lead us to believe XRPL would be the ideal solution for a low-cost high transaction ledger for trading NFTs as we intend to at Zipflair.
 
 Due the to the extremely high number of cross-border transactions Zipflair will be processing, Zipflair plans to use XRP as the base currency in which all products are list by price in XRP and the users local fiat currency. 
 
