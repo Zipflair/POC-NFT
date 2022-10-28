@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "Testing an image of a tortoise",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVHFj1JStgw1tc7dSn1d8J5uQtHYosoXLMo6PBV7UvHEH",
+    "name": "Tortoise"
+}
